@@ -1,3 +1,2 @@
-temporary
 another line
 yet another line
